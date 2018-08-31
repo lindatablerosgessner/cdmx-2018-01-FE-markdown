@@ -4,6 +4,8 @@
 
 ![md-links](https://user-images.githubusercontent.com/110297/42118443-b7a5f1f0-7bc8-11e8-96ad-9cc5593715a6.jpg)
 
+[REPOSITORIO ORIGINAL](https://github.com/lindatablerosgessner/cdmx-2018-01-FE-markdown)
+
 ## Pistas
 
 * [Marked](https://github.com/markedjs/marked/blob/master/docs/USING_PRO.md)
